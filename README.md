@@ -78,5 +78,5 @@ userstory1/
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/PkThunderBolt/UserStory1.git
+   git clone https://github.com/yourusername/userstory1.git
    ```
